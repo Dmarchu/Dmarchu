@@ -5,12 +5,12 @@
 💻 Knowledge acquired during my degree: **Java, Haskell, Prolog, C, C#, Linux, HTML, CSS, JavaScript, MySQL**  
 🧠 Self-taught experience in: **Python, PHP, Apache, MariaDB, networking, server management, DNS, GUIs, Discord bots**  
 🌍 Fluent in **Spanish** & **English**  
-🚀 Currently working on multiple projects in **Java**, **Network Management & Security**, **Web pages** and a local **Home lab** and looking forward for upgrading my skills!
+🚀 Currently working on multiple projects in **Java**, **Network Management & Security**, **Web pages** and a local **Home lab**.
+🖥️ Looking forward to upgrading my skills!
 
 ---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qDW7GBW)
 [![Email](https://img.shields.io/badge/Outlook-davidmaralo%40outlook.es-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidmaralo@outlook.es)
 [![Email](https://img.shields.io/badge/Gmail-davidmaralo5%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmaralo5@gmail.com)
 
