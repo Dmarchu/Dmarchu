@@ -3,10 +3,10 @@
 ## 💫 About Me
 🎓 Currently studying **Computer Engineering**  
 💻 Knowledge acquired during my degree: **Java, Haskell, Prolog, C, C#, Linux, HTML, CSS, JavaScript, MySQL**  
-🧠 Self-taught experience in: **Python, PHP, Apache, MariaDB, networking, server management, DNS, GUIs, Discord bots**  
+🧠 Self-taught experience in **Python, PHP, Apache, MariaDB, networking, server management, DNS, GUIs, Discord bots**  
 🌍 Fluent in **Spanish** & **English**  
-🚀 Currently working on multiple projects in **Java**, **Network Management & Security**, **Web pages** and a local **Home lab**  
-🖥️ Looking forward to upgrading my skills!
+🚀 Currently working on several projects involving **Java**, **Network Management & Security**, **Web Development**, and my local **Home Lab**  
+🖥️ Always looking to improve my skills!
 
 ---
 
